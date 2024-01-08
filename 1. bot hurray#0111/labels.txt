@@ -1,0 +1,2 @@
+0 Nesli tukenmekte olan canlilar
+1 Nesli tukenmekte olmayan canlilar

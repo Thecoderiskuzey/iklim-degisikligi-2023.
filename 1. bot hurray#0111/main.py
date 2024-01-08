@@ -104,4 +104,4 @@ async def duck(ctx):
 
 
 
-bot.run("MTE4NDE1MjUwMDYzMTI0ODkxNw.GqplTN.5qvivzrnE3ZHVXwVGxP9k_DM2CYRUWch8x22eo")
+bot.run("no cod for u")
